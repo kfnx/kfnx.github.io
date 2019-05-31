@@ -1,0 +1,19 @@
+{
+  "name": "kafinsalim.github.io",
+  "version": "1.0.0",
+  "description": "kafin salim personal website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kafinsalim/kafinsalim.github.io.git"
+  },
+  "author": "kafin salim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kafinsalim/kafinsalim.github.io/issues"
+  },
+  "homepage": "https://github.com/kafinsalim/kafinsalim.github.io#readme"
+}
